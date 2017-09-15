@@ -10,3 +10,6 @@ Yannick
 
 #Evan
 - Added the character Who, Role, What to actor.php
+
+#Yannick
+- Added Batman
